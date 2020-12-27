@@ -1,8 +1,5 @@
 == Day 12
 
-
-For this day I tried to use python list comprehension in order to solve the puzzles.
-
 === Usage
 
 python day12.py <filename>

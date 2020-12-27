@@ -1,13 +1,10 @@
 == Day 16
 
-
-For this day I tried to use python list comprehension in order to solve the puzzles.
-
 === Usage
 
-python day16.py
+python day16.py <filename>
 
-First enter the number of the game then how many turns to play
+filename: name of file containing the data for this puzzle
 
 
 [source, python]
